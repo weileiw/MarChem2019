@@ -20,3 +20,6 @@ nsnew.m C.T. Kelly's Newton Armijo solver
 mfactor.m Timothy A. Davis' LINFACTOR VERSION 1.1.0, Nov 1, 2007 Copyright 2007, Timothy A. Davis, University of Florida
 
 d0.m makes a sparse diagonal matrix given a 3d field
+
+
+DOI:10.5281/zenodo.2595433
